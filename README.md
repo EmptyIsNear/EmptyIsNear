@@ -10,8 +10,6 @@
 ## Passions
 
 - Développement
-- - Web
-  - Jeux
 - Musique
 - Jeux Vidéos
 - Automobile
