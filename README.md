@@ -39,7 +39,7 @@
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)<br/>
 ![Bootstrap5](https://img.shields.io/badge/bootstrap5-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)<br/>
-![JQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)<br/>
+![JQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   
 <br>
 
